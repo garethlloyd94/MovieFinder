@@ -1,0 +1,408 @@
+{
+  "page": 2,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/mu8RKavbv7Ml48twHQ6XVk7zw8e.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 796499,
+      "original_language": "en",
+      "original_title": "Army of Thieves",
+      "overview": "A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.",
+      "popularity": 1093.505,
+      "poster_path": "/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg",
+      "release_date": "2021-10-27",
+      "title": "Army of Thieves",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 775
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7OcRErUXXdAVAHg6y5cjn56ivtu.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 576845,
+      "original_language": "en",
+      "original_title": "Last Night in Soho",
+      "overview": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
+      "popularity": 960.18,
+      "poster_path": "/5iGVofFc0mCr8aJYsVICm42ThIu.jpg",
+      "release_date": "2021-10-21",
+      "title": "Last Night in Soho",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 483
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sLWUtbrpiLp23a0XDSiUiltdFPJ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 1930,
+      "original_language": "en",
+      "original_title": "The Amazing Spider-Man",
+      "overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+      "popularity": 883.224,
+      "poster_path": "/fSbqPbqXa7ePo8bcnZYN9AHv6zA.jpg",
+      "release_date": "2012-06-23",
+      "title": "The Amazing Spider-Man",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 13624
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7h5WAPAcUzOWpp2jrwHBB48790j.jpg",
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 843241,
+      "original_language": "ja",
+      "original_title": "劇場版 七つの大罪 光に呪われし者たち",
+      "overview": "With the help of the \"Dragon Sin of Wrath\" Meliodas and the worst rebels in history, the Seven Deadly Sins, the \"Holy War\", in which four races, including Humans, Goddesses, Fairies and Giants fought against the Demons, is finally over. At the cost of the \"Lion Sin of Pride\" Escanor's life, the Demon King was defeated and the world regained peace. After that, each of the Sins take their own path.",
+      "popularity": 873.733,
+      "poster_path": "/k0ThmZQl5nHe4JefC2bXjqtgYp0.jpg",
+      "release_date": "2021-07-02",
+      "title": "The Seven Deadly Sins: Cursed by Light",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 227
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+      "genre_ids": [
+        878,
+        28
+      ],
+      "id": 335983,
+      "original_language": "en",
+      "original_title": "Venom",
+      "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+      "popularity": 857.469,
+      "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "release_date": "2018-09-28",
+      "title": "Venom",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 12299
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bwPXMrDyPDaSiQaOmUo10GLn0rf.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 775943,
+      "original_language": "es",
+      "original_title": "Llanto Maldito",
+      "overview": "Sara and Óscar, a couple going through a marital crisis, decide to spend a week in a remote country cabin with their two children, Alicia and Tomás. The family tries to have a quiet time, but something strange happens there. There is a woman who prowls through the forest and cries uncontrollably looking for a baby she has just lost. This deeply affects the family who will have to stay together to survive this nightmare.",
+      "popularity": 748.74,
+      "poster_path": "/iwlmZKndp7fIfHbxVzQtk9zby3A.jpg",
+      "release_date": "2021-07-29",
+      "title": "Tarumama",
+      "video": false,
+      "vote_average": 4.7,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2OFg5p9yarI5zZsUWKCRgBgPctj.jpg",
+      "genre_ids": [
+        28,
+        12
+      ],
+      "id": 568620,
+      "original_language": "en",
+      "original_title": "Snake Eyes: G.I. Joe Origins",
+      "overview": "After saving the life of their heir apparent, tenacious loner Snake Eyes is welcomed into an ancient Japanese clan called the Arashikage where he is taught the ways of the ninja warrior. But, when secrets from his past are revealed, Snake Eyes' honor and allegiance will be tested – even if that means losing the trust of those closest to him.",
+      "popularity": 732.546,
+      "poster_path": "/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg",
+      "release_date": "2021-07-22",
+      "title": "Snake Eyes: G.I. Joe Origins",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 838
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/akwg1s7hV5ljeSYFfkw7hTHjVqk.jpg",
+      "genre_ids": [
+        16,
+        35,
+        12,
+        10751
+      ],
+      "id": 459151,
+      "original_language": "en",
+      "original_title": "The Boss Baby: Family Business",
+      "overview": "The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again … and inspire a new family business.",
+      "popularity": 699.812,
+      "poster_path": "/uWStkK8bq9ixY3fc7y209ZleCoF.jpg",
+      "release_date": "2021-07-01",
+      "title": "The Boss Baby: Family Business",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 1613
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        14
+      ],
+      "id": 635302,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限列車編",
+      "overview": "Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
+      "popularity": 682.243,
+      "poster_path": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+      "release_date": "2020-10-16",
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 1873
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xGrTm3J0FTafmuQ85vF7ZCw94x6.jpg",
+      "genre_ids": [
+        18,
+        36,
+        12
+      ],
+      "id": 589761,
+      "original_language": "ru",
+      "original_title": "Чернобыль",
+      "overview": "The aftermath of a shocking explosion at the Chernobyl nuclear power station made hundreds of people sacrifice their lives to clean up the site of the catastrophe and to successfully prevent an even bigger disaster that could have turned a large part of the European continent into an uninhabitable exclusion zone. This is their story.",
+      "popularity": 641.823,
+      "poster_path": "/kfQJQWFEoWRVBH8FUKnT0HX1yRS.jpg",
+      "release_date": "2021-04-15",
+      "title": "Chernobyl 1986",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 199
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hugKriLPeBm3lErSCQiFOgQzpkC.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 574060,
+      "original_language": "en",
+      "original_title": "Gunpowder Milkshake",
+      "overview": "In her turbulent life as a professional assassin, Sam has no choice but to go rogue to save the life of an innocent 8-year-old girl in the middle of the gang war she has unleashed.",
+      "popularity": 641.525,
+      "poster_path": "/5AaKulwpUtkscAokKWtLenGTfVS.jpg",
+      "release_date": "2021-07-14",
+      "title": "Gunpowder Milkshake",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 384
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/owraiceOKtSOa3t8sp3wA9K2Ox6.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "id": 703771,
+      "original_language": "en",
+      "original_title": "Deathstroke: Knights & Dragons - The Movie",
+      "overview": "The assassin Deathstroke tries to save his family from the wrath of H.I.V.E. and the murderous Jackal.",
+      "popularity": 635.151,
+      "poster_path": "/vFIHbiy55smzi50RmF8LQjmpGcx.jpg",
+      "release_date": "2020-08-04",
+      "title": "Deathstroke: Knights & Dragons - The Movie",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 298
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14
+      ],
+      "id": 508943,
+      "original_language": "en",
+      "original_title": "Luca",
+      "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
+      "popularity": 630.399,
+      "poster_path": "/jTswp6KyDYKtvC52GbHagrZbGvD.jpg",
+      "release_date": "2021-06-17",
+      "title": "Luca",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 5141
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dIibeeq4QMay5bTJ2vjr72IFFRo.jpg",
+      "genre_ids": [
+        14,
+        12,
+        35
+      ],
+      "id": 589754,
+      "original_language": "ru",
+      "original_title": "Последний богатырь: Корень зла",
+      "overview": "Peace and tranquility have set in Belogorie. The evil was defeated and Ivan is now enjoying his well-deserved fame. He is surrounded by his family, friends and small wonders from the modern world that help him lead a comfortable life. Luckily, he has his Magic Sword to cut a gap between the worlds to get some supplies quite regularly. But when an ancient evil rises and the existence of the magic world is put to danger, Ivan has to team up with his old friends and his new rivals. They will set out on a long journey beyond the known world to find a way to defeat the enemies and to return peace to Belogorie.",
+      "popularity": 626.697,
+      "poster_path": "/5VJSIAhSn4qUsg5nOj4MhQhF5wQ.jpg",
+      "release_date": "2021-01-01",
+      "title": "The Last Warrior: Root of Evil",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 66
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 429617,
+      "original_language": "en",
+      "original_title": "Spider-Man: Far From Home",
+      "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+      "popularity": 613.97,
+      "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "release_date": "2019-06-28",
+      "title": "Spider-Man: Far From Home",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 11030
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7WJjFviFBffEJvkAms4uWwbcVUk.jpg",
+      "genre_ids": [
+        12,
+        14,
+        35,
+        28
+      ],
+      "id": 451048,
+      "original_language": "en",
+      "original_title": "Jungle Cruise",
+      "overview": "Dr. Lily Houghton enlists the aid of wisecracking skipper Frank Wolff to take her down the Amazon in his dilapidated boat. Together, they search for an ancient tree that holds the power to heal – a discovery that will change the future of medicine.",
+      "popularity": 610.389,
+      "poster_path": "/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg",
+      "release_date": "2021-07-28",
+      "title": "Jungle Cruise",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 3363
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wfrfxivLOBtGMC98tIr2LSOeKSe.jpg",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        10751
+      ],
+      "id": 639721,
+      "original_language": "en",
+      "original_title": "The Addams Family 2",
+      "overview": "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.",
+      "popularity": 609.572,
+      "poster_path": "/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg",
+      "release_date": "2021-10-01",
+      "title": "The Addams Family 2",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 610
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gGTCDNEvwG848u34Op1nZNALLUr.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 385128,
+      "original_language": "en",
+      "original_title": "F9",
+      "overview": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
+      "popularity": 606.412,
+      "poster_path": "/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",
+      "release_date": "2021-05-19",
+      "title": "F9",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 4418
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eBGKU0ZLJmxtVtzESTB1mfllX1J.jpg",
+      "genre_ids": [
+        80,
+        28,
+        53
+      ],
+      "id": 630004,
+      "original_language": "en",
+      "original_title": "The Vault",
+      "overview": "When an engineer learns of a mysterious, impenetrable fortress hidden under The Bank of Spain, he joins a crew of master thieves who plan to steal the legendary lost treasure locked inside while the whole country is distracted by Spain's World Cup Final. With thousands of soccer fans cheering in the streets, and security forces closing in, the crew have just minutes to pull off the score of a lifetime.",
+      "popularity": 596.229,
+      "poster_path": "/kWhXubAiIcHW0xn5GThflqaKZqh.jpg",
+      "release_date": "2021-03-03",
+      "title": "The Vault",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 426
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 436969,
+      "original_language": "en",
+      "original_title": "The Suicide Squad",
+      "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+      "popularity": 591.331,
+      "poster_path": "/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg",
+      "release_date": "2021-07-28",
+      "title": "The Suicide Squad",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 4839
+    }
+  ],
+  "total_pages": 2,
+  "total_results": 40
+}
